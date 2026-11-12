@@ -2,4 +2,4 @@
 #let titel = "Deutsch "
 #let subtitel = "Kommunikation"
 #let subject = "Fachinformatik – Anwendungsentwicklung"
-#let description = "Kommunikationsmethoden Erklärt"
+#let description = "Kommunikationsmethoden erklärt"

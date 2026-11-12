@@ -1,8 +1,8 @@
 #import "../Template/Lernzettel.typ": *
-= Das Eisbergmodell nach Siegmund Freud
+= Das Eisbergmodell nach Sigmund Freud
 #abbildung(
   image("../Assets/eisberg.png"),
-  titel:[Eisbergmodell nach Siegmund Freud]
+  titel:[Eisbergmodell nach Sigmund Freud]
   )
-Siegmund Freud geht davon aus das was wir sagen und nicht sgaen nicht nur durch wo worte transportiert wird. Das Tastsachlich gesagte beträgt etwa 20% und ist nur die spitze des eisbergs. Die Restlichen 80% sind der Perönlich hinetrugunrf, das verhältnis zum gegenüber und die aktuelle situation.\
-Kommunikation hat so immer ein sichare und unsichtbare ebene.
+Sigmund Freud geht davon aus, dass das, was wir sagen und nicht sagen, nicht nur durch Worte transportiert wird. Das tatsächlich Gesagte beträgt etwa 20 % und ist nur die Spitze des Eisbergs. Die restlichen 80 % sind der persönliche Hintergrund, das Verhältnis zum Gegenüber und die aktuelle Situation.\
+Kommunikation hat so immer eine sichtbare und eine unsichtbare Ebene.

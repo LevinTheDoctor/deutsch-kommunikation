@@ -1,25 +1,25 @@
 #import "../Template/Lernzettel.typ": *
 = Kommunikation
-Austausch von Informationen mittels verbaler, nonverbal oder schriftlich zeichen. Sie ermöglicht das Teilen von Gedanken, Gefühlen und Wissen und trägt zur Verständigung und Zusammenarbeit bei. Kommunkation kann über natürlich und Technische Kanäle erfolgen. 
+Austausch von Informationen mittels verbaler, nonverbaler oder schriftlicher Zeichen. Sie ermöglicht das Teilen von Gedanken, Gefühlen und Wissen und trägt zur Verständigung und Zusammenarbeit bei. Kommunikation kann über natürliche und technische Kanäle erfolgen. 
 #tabelle(
   table( 
     columns: (auto,auto,auto),
-    table.header([*W-Frage*],[*Beschsribung*],[*Fachbegriff*]),
-    [Wer?],[Alle Menschen , Lebewesen wie Tiere],[Sender],
-    [Was?],[Meinungen, Einstellung, zuniegenung, intressen,  Wünsche, verlangen, ziele, Plane , aufgaben],[Mittieilung, Nachricht],
-    [Mit Wem?],[Anderen Menschen und Lebenswesen in der breufwelt, im privat leben und im alltag],[Empfänger],
-    [Womit?],[Durch Sprache, Verhalten und Non Verbale komunikation, durch text breife, nachrichten email. Mimik, ton und lautstärke, geärdesprachen],[Kommunikationsmittel: Verbal, Nonverbal, Schriftlich],
-    [Wozu und Warum?],[Austausch von Informationen, Übertragung von Wissen, Austusch von intressen, intention],[Intention / Kommunikationzweck],
-    [Wann und Wo?],[Überall und Jederzeit, man kommnizert auch bei abwesendheit],[Kontexxt / Kommunikationssituation]
+    table.header([*W-Frage*],[*Beschreibung*],[*Fachbegriff*]),
+    [Wer?],[Alle Menschen, Lebewesen wie Tiere],[Sender],
+    [Was?],[Meinungen, Einstellungen, Zuneigung, Interessen, Wünsche, Verlangen, Ziele, Pläne, Aufgaben],[Mitteilung, Nachricht],
+    [Mit Wem?],[Anderen Menschen und Lebewesen in der Berufswelt, im Privatleben und im Alltag],[Empfänger],
+    [Womit?],[Durch Sprache, Verhalten und nonverbale Kommunikation, durch Texte, Briefe, Nachrichten, E-Mails, Mimik, Ton und Lautstärke, Gebärdensprachen],[Kommunikationsmittel: Verbal, Nonverbal, Schriftlich],
+    [Wozu und Warum?],[Austausch von Informationen, Übertragung von Wissen, Austausch von Interessen, Intention],[Intention / Kommunikationszweck],
+    [Wann und Wo?],[Überall und jederzeit, man kommuniziert auch bei Abwesenheit],[Kontext / Kommunikationssituation]
   ),
   quelle: "Eigene Darstellung",
   titel: "Was ist Kommunikation?"
 )
 == Natürlicher Kommunikationskanal
-Die Natürliche Kummnatikation beschreibe nonverbale sowal auch verbale kommunikation über den Körper und Stimme. Das bedeut Telfoniren würde zwar über technische hilfsmittel erfolgen aber die Kommunikation selbst ist natürlich. Ein Video Call ist sogar noch natürlich da man die Mimik und Gestik des Gegenübers sehen kann.
+Die natürliche Kommunikation beschreibt nonverbale sowie verbale Kommunikation über den Körper und die Stimme. Das bedeutet: Telefonieren würde zwar über technische Hilfsmittel erfolgen, aber die Kommunikation selbst ist natürlich. Ein Videocall ist sogar noch natürlicher, da man die Mimik und Gestik des Gegenübers sehen kann.
 == Technischer Kommunikationskanal
-Technische Kommunktation beschreibt Kommunikation über text also ist ein buch, breif und eine chat nachricht technisch. 
-== Verbal Kommunikation
-Verbal Kommunikation beschreibt die Kommunikation über gesprochene oder geschriebene Sprache. 
-== Nonverbal Kommunikation
-Nonverbal Kommunikation beschreibt die Kommunikation über Mimik, Gestik, Körperhaltung, Tonfall und Lautstärke. 
+Technische Kommunikation beschreibt Kommunikation über Text, also sind ein Buch, ein Brief und eine Chatnachricht technisch. 
+== Verbale Kommunikation
+Verbale Kommunikation beschreibt die Kommunikation über gesprochene oder geschriebene Sprache. 
+== Nonverbale Kommunikation
+Nonverbale Kommunikation beschreibt die Kommunikation über Mimik, Gestik, Körperhaltung, Tonfall und Lautstärke. 

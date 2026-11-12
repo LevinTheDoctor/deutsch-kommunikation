@@ -13,7 +13,7 @@
 // `reason` schaltet die Grundfarben um. Wichtig: Die Zuweisung muss auf
 // Modulebene stehen. Ein `let` innerhalb eines `if`-Blocks ist nur dort
 // sichtbar und würde außerhalb (und damit in allen Komponenten) fehlen.
-#let reason = "Berufschule" // "Berufschule" | "Uni" | "Arbeit"
+#let reason = "Berufsschule" // "Berufsschule" | "Uni" | "Arbeit"
 
 #let _palette = if reason == "Uni" {
   (primary: rgb("#2E4057"), accent: rgb("#048A81"))
