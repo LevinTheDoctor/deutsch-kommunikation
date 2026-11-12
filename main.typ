@@ -40,14 +40,15 @@
   // Im Text mit #abk("KI") verwenden. Die erste Verwendung schreibt die Langform
   // aus; das Abkürzungsverzeichnis listet nur, was auch benutzt wurde.
   abkuerzungen: (
-    "KI": "Künstliche Intelligenz",
-    "OOP": "Objektorientierte Programmierung",
-    "API": "Application Programming Interface",
   ),
 )
 
 // --- Kapitel ---------------------------------------------------------------------------
-#include "Content/01-sortierverfahren.typ"
+#include "Content/01-Kommunikation.typ"
+#include "Content/02-Sender-Empfänger-Modell.typ"
+#include "Content/03-Vier-Ohren-Modell.typ"
+#include "Content/04-fünf-axiome.typ"
+#include "Content/05-eisbergmodell-siegmund-freud.typ"
 
 // --- Literaturverzeichnis ---------------------------------------------------------------
 #literaturverzeichnis(datei: "/Bibliography/literatur.bib")
